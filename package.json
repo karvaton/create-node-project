@@ -1,0 +1,16 @@
+{
+  "name": "create-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./bin/index.js",
+  "bin": {
+    "create-node-project": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
